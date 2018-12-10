@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/edro/.platformio/penv/bin:/home/edro/.platformio/penv:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/edro/bin:/home/edro/bin:/home/edro/.local/bin:/home/edro/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
